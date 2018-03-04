@@ -1,0 +1,7 @@
+.idea/
+
+resources/json/
+notes/
+
+__pycache__
+*.pyc
