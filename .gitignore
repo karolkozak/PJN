@@ -1,7 +1,9 @@
 .idea/
 
 resources/json/
+resources/polimorfologik/
 notes/
+temp/
 
 __pycache__
 *.pyc
